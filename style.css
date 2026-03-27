@@ -1,0 +1,13 @@
+body{
+    border: 5px solid white;
+    margin: 10px;
+    padding: 40px;
+}
+
+.green{
+    color: green;
+}
+
+.blue{
+    color: blue;
+}
